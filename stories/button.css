@@ -10,7 +10,7 @@
 .storybook-button--primary {
   color: white;
   /* background-color: #1ea7fd; */
-  background-color: #fab211;
+  background-color: #fab212;
 }
 .storybook-button--secondary {
   color: #333;
@@ -29,3 +29,4 @@
   font-size: 16px;
   padding: 12px 24px;
 }
+//
